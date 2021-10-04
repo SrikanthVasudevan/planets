@@ -1,2 +1,9 @@
 data
+.*.swp
+
+# **/* wildcard for directories
+# * normal wildcard not including /
+# l whitelist a pattern
+
+!data/README.md
 
